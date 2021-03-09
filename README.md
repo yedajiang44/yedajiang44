@@ -1,12 +1,22 @@
-<div>
-   <h1 align="center">Hi there! 
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-   </h1>
-</div>
+<a href="https://yedajiang44.com" target="_blank" rel="nofollow">
+   <div align="center">
+      <img src="./img/logo.png">
+   </div>
+</a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yedajiang44&layout=compact" />
+<br/>
+
+<h1 align="center">Hi there! 
+   <img src="./img/hand.gif" width="25px">
+</h1>
+
+      I am yedajiang44 🙋🏻‍♂️ multi language user and open source contributor
+
+# About me detail
 
 Multi language used
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yedajiang44&layout=compact" />
 
 - `C#`
 - `Java`
@@ -16,14 +26,15 @@ Multi language used
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yedajiang44&count_private=true&show_icons=true&hide_title=true" />
-
 Open source contributor
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yedajiang44&count_private=true&show_icons=true&hide_title=true" />
+
 - `Android`
-- `Netcore`
+- `NetCore`
 - `Angular`
 - `React`
+- `Docker`
 - `others`
 
 <br/>
